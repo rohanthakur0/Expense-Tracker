@@ -2,7 +2,8 @@
 A web based application for tracking and managing expenses, developed with HTML, CSS and JavaScript
 
 
-#Features
+# Features
 - Track your Expenses
 - Total Expense
-  
+- View a summary of Transactions
+
